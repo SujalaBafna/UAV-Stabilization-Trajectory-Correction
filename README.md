@@ -19,18 +19,24 @@ The system fuses IMU sensor data with PID control and actuates control surfaces 
 - **simulations/**: MATLAB PID simulation & plots
 - **docs/**: Hardware documentation (Altium + exports)
 
+---
+
 ## 🚀 Features
 - PID-based roll, pitch, yaw stabilization
 - STM32F446RE implementation
 - Custom shield hardware (Altium files)
 - MATLAB simulation of control response
 
+---
+
 ## 🛠️ How to Run
 1. Open in STM32CubeIDE  
 2. Replace HAL stubs with real STM32 HAL  
 3. Build and flash to STM32F446RE  
 4. Connect IMU via UART 4/5
-##**Note:** “Certain proprietary libraries (developed under NDA) were excluded. Equivalent stubs provided for structure demonstration.”
+5. **Note:** “Certain proprietary libraries (developed under NDA) were excluded. Equivalent stubs provided for structure demonstration.”
+
+---
 
 ## 📡 Hardware
 See [docs/Hardware/README.md](docs/Hardware/README.md) for schematics and PCB exports.
