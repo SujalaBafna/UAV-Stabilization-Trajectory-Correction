@@ -14,6 +14,8 @@ Contains all hardware design artifacts for the custom STM32 shield.
 - **altium libraries/**: Altium design libraries (.Schlib, .Pcblib)
 - **exports/**: Portable files (PDF schematics, PCB layout, Gerber files, Drill files, images)
 
+---
+
 ### 2. Project Report
 - **`UAV Trajectory Stabalisation Technical Report.pdf`**
   A detailed report describing the motivation, design methodology, system architecture, and validation of this UAV control system.  
