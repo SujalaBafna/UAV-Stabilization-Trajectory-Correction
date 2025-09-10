@@ -4,6 +4,7 @@ This project includes a custom shield for STM32F446RE, designed in Altium Design
 
 ## 📂 Files
 - **altium/**: Native Altium design files (.SchDoc, .PcbDoc, .PrjPCB)
+- **altium libraries/**: Altium design libraries (.Schlib, .Pcblib)
 - **exports/**: Portable files (PDF schematics, PCB layout, images)
 
 Replace the placeholders with actual exports from Altium.
