@@ -30,7 +30,7 @@ The system fuses IMU sensor data with PID control and actuates control surfaces 
 2. Replace HAL stubs with real STM32 HAL  
 3. Build and flash to STM32F446RE  
 4. Connect IMU via UART 4/5
-**Note:** “Certain proprietary libraries (developed under NDA) were excluded. Equivalent stubs provided for structure demonstration.”
+##**Note:** “Certain proprietary libraries (developed under NDA) were excluded. Equivalent stubs provided for structure demonstration.”
 
 ## 📡 Hardware
 See [docs/Hardware/README.md](docs/Hardware/README.md) for schematics and PCB exports.
