@@ -14,8 +14,7 @@ docs/Hardware/
 │   └── UAV_STM_Sheild.PcbDoc       ← PCB layout document
 ├── exports/
 │   ├── UAV_STM_Sheild_schematic.pdf ← Printable schematic (placeholder)
-│   ├── UAV_STM_Sheild_pcb.pdf       ← PCB layout (2D view, placeholder)
-│   ├── UAV_STM_Sheild_pcb_top.png   ← Top-view PCB image (placeholder)
+│   ├── Fabrication.pdf       ← PCB layout (2D view, placeholder)
 │   └── UAV_STM_Sheild_pcb_3d.png    ← 3D-render PCB image (placeholder)
 └── lib/
     ├── *.SchLib                     ← Schematic symbol libraries
