@@ -16,7 +16,6 @@ The system fuses IMU sensor data with PID control and actuates control surfaces 
 
 ## 📂 Structure
 - **Src/**: Source code (STM32 + PID)
-- **Inc/**: Header files
 - **simulations/**: MATLAB PID simulation & plots
 - **docs/**: Hardware documentation (Altium + exports)
 
@@ -28,9 +27,9 @@ The system fuses IMU sensor data with PID control and actuates control surfaces 
 
 ## 🛠️ How to Run
 1. Open in STM32CubeIDE  
-2. Replace HAL stubs with real STM32 HAL/MTT drivers  
+2. Replace HAL stubs with real STM32 HAL  
 3. Build and flash to STM32F446RE  
-4. Connect IMU via UART  
+4. Connect IMU via UART 4/5  
 
 ## 📡 Hardware
 See [docs/HARDWARE.md](docs/HARDWARE.md) for schematics and PCB exports.
