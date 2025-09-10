@@ -32,4 +32,4 @@ The system fuses IMU sensor data with PID control and actuates control surfaces 
 4. Connect IMU via UART 4/5  
 
 ## 📡 Hardware
-See [docs/HARDWARE.md](docs/HARDWARE.md) for schematics and PCB exports.
+See [docs/HARDWARE/README.md](docs/HARDWARE/README.md) for schematics and PCB exports.
